@@ -1,0 +1,28 @@
+{
+	"name": "SASHIMON",
+	"author": "หมีขั้วโลกสีน้ำตาล",
+	"image": "https://res06.noxgroup.com/noxinfluencer/youtube/avatar/f6e180da4f51e8fb1c0423106a64bd16.png",
+	"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/Main",
+	"groups": [
+	
+	        
+    	        {
+			"name": "หนังที่ผมชอบ",
+			"image": "https://image.roku.com/developer_channels/prod/5acefbfdec1bfd80e2dfdc48c9cb4754d38ec39dadf4c6abdd82a59fd485b04c.png",
+			"url": "http://tiny.cc/myhorror",
+			"import": false
+		},		
+
+
+               {
+                       "name": "หนังมาใหม่",
+                       "image": "https://seeklogo.com/images/M/movie-time-cinema-logo-8B5BE91828-seeklogo.com.png",
+                       "url": "http://tiny.cc/upmovies",
+		       "import": false
+		},		
+
+
+		
+		
+    ]
+}
