@@ -1,24 +1,25 @@
 {
-	"name": "Wiseplaylist@Garlic",
-	"author": "@แอนดรอยด์แอพฟรี",
+	"name": "SASHIMON",
+	"author": "หมีขั้วโลกสีน้ำตาล",
 	"image": "https://res06.noxgroup.com/noxinfluencer/youtube/avatar/f6e180da4f51e8fb1c0423106a64bd16.png",
-	"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/Main",
+	"url": "https://raw.githubusercontent.com/SASHIMON/KAFFEINE/main",
 	"groups": [
 	
-
-	        {
-			"name": "ช่องดิจิตอล ทีวีไทย",
-			"image": "http://aosat.igetweb.com/article/art_42144142.png",
-			"url": "http://tiny.cc/thaitv01",
+	        
+    	        {
+			"name": "หนังที่ผมชอบ",
+			"image": "https://image.roku.com/developer_channels/prod/5acefbfdec1bfd80e2dfdc48c9cb4754d38ec39dadf4c6abdd82a59fd485b04c.png",
+			"url": "http://tiny.cc/myhorror",
 			"import": false
-		},	
+		},		
 
-	       {
-			"name": "TrueID ทีวี",
-			"image": "https://pbs.twimg.com/profile_images/1122778343118491648/lM4PqdR1_400x400.jpg",
-			"url": "http://tiny.cc/trueid",
-			"import": false
-		},
+
+               {
+                       "name": "หนังมาใหม่",
+                       "image": "https://seeklogo.com/images/M/movie-time-cinema-logo-8B5BE91828-seeklogo.com.png",
+                       "url": "http://tiny.cc/upmovies",
+		       "import": false
+		},		
 
 
 		
