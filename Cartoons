@@ -1,0 +1,28 @@
+{
+	"name": "CARTOONs",
+	"author": "By หมีขั้วโลกสีน้ำตาล O_o",
+	"image": "https://1.bp.blogspot.com/-v-sTYSH3SIA/X3xCZVvm9DI/AAAAAAAAARY/jOJ8pBkStQEF8k2xWG5t0krm9f9kCwFWgCNcBGAsYHQ/s150/cartoon01.png",
+	"url": "https://raw.githubusercontent.com/SASHIMON/KAFFEINE/main",
+	"groups": [
+	
+	        
+    {
+			"name": "001-มนต์รักซอมบี้สาวโมเอะ",
+			"image": "https://1.bp.blogspot.com/-wpGGWDnvBpI/X3tfJeQcVFI/AAAAAAAAAQw/uB-n-THBhI89eHU_LcZk-YEoYqT7udg8gCNcBGAsYHQ/s1280/sankarea.jpg",
+			"url": "http://tiny.cc/001sankarea",
+			"import": false
+		},		
+
+
+    {
+      "name": "002-องค์ชายจิตป่วนกับน้องเหมียวยิ้มยาก",
+      "image": "https://1.bp.blogspot.com/-RFlUyCWVaCc/X3tm18dyyUI/AAAAAAAAARM/K5c3bJiTNvMQeysvTqOsPYRtXk_tF4emgCNcBGAsYHQ/s696/HenNeko-FAQ-696x391.png",
+      "url": "http://tiny.cc/002OujiNeko",
+		  "import": false
+		},		
+
+
+		
+		
+    ]
+}
