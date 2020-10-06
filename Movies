@@ -3,21 +3,10 @@
 	"author": "หนังเก่าๆ ดูซ้ำๆ เรื่อยๆ ยังสนุก",
 	"image": "https://1.bp.blogspot.com/-2ax5cWtIhHc/X3xZDcQMI0I/AAAAAAAAAR0/ZFNDHmnJC4YpW6iigfRE1ouUudY6hh2jACNcBGAsYHQ/s200/movie01.png",
 	"url": "https://raw.githubusercontent.com/SASHIMON/KAFFEINE/main",
-	"groups": [
 	
-	        
-   {
-			"name": "หนังภาคต่อ",
-			"image": "https://1.bp.blogspot.com/-tYEmJjKleU0/X3y6dm-pkfI/AAAAAAAAATw/KTP3Txu-6qUrSiwuCSS_9W0LNG1NoRZDwCNcBGAsYHQ/s256/MovieBox.png",
-	"url": "http://tiny.cc/meMoviesBoxSet",
-	"import": false
-		},		
-
-		
-		
-    ]
-    
     "stations": [
+    
+    
     {
 			"name": "G-Force หน่วยจารพันธุ์พิทักษ์โลก (2009)",
 			"image": "https://mono29.com/app/uploads/2016/12/14-15jan17_29web17.jpg",
