@@ -1,0 +1,28 @@
+{
+	"name": "Line Cartoon",
+	"author": "https://1.bp.blogspot.com/-JOseb6GyL70/X3x2R-mAjqI/AAAAAAAAATE/COrwgdBUzzUM0BlrA8XJaG3CSuZyRHjrACNcBGAsYHQ/s800/line-keep-memo-1.png",
+	"image": "https://1.bp.blogspot.com/-3k-uZDnHBbw/X3tfFHHm-eI/AAAAAAAAAQs/jwkpe0Mp6BAo9hcSJHfyaYOA7mCS44JXwCNcBGAsYHQ/s1516/brown0001.jpg",
+	"url": "https://raw.githubusercontent.com/SASHIMON/KAFFEINE/main",
+	"groups": [
+	
+	        
+    	        {
+			"name": "Line Town",
+			"image": "https://1.bp.blogspot.com/-ZhItvDfdmyQ/X3x3B430oLI/AAAAAAAAATQ/jJYGzR1_Exc3nD7PmXvfsMnBRWcZdBRfQCNcBGAsYHQ/s485/Line-Town-image.jpg",
+			"url": "http://tiny.cc/001linetownme",
+			"import": false
+		},		
+
+
+               {
+                       "name": "Line Offline : Line Salaryman",
+                       "image": "https://1.bp.blogspot.com/-VX0rXKEoik8/X3x3B8SXgGI/AAAAAAAAATU/rC9bdtC6WkEPSyCqXgN0cPc_jNCe-TCsQCNcBGAsYHQ/s550/5d682c90.jpg",
+                       "url": "http://tiny.cc/002linesalarymanme",
+		       "import": false
+		},		
+
+
+		
+		
+    ]
+}
