@@ -1,0 +1,44 @@
+{
+	"name": "White Collar SS6",
+	"author": "อาชญากรสมองเพชร ปี6 [ซับไทย] SS.1-6 END SS6",
+	"image": "https://1.bp.blogspot.com/-8myUkGj19tE/X3x69p0u5fI/AAAAAAAAATk/LOZ1dpm5fv8MMsAfZbM1uBExINDRgMX1wCNcBGAsYHQ/s200/ee.png",
+	"url": "https://raw.githubusercontent.com/SASHIMON/KAFFEINE/main",
+	"stations": [
+	
+	{
+             "name": "EP 1",   
+	     "url": "https://www.series24hr.com/video/white-collar-season-6-ep-1/",
+	     "playInNatPlayer": "true"
+           },
+	   
+	{
+             "name": "EP 2",  
+	     "url": "https://www.series24hr.com/video/white-collar-season-6-ep-2/",
+	     "playInNatPlayer": "true"
+           },
+	   
+	{
+		"name": "EP 3",  
+	     "url": "https://www.series24hr.com/video/white-collar-season-6-ep-3/",
+	     "playInNatPlayer": "true"
+           },
+	{
+             "name": "EP 4",   
+	     "url": "https://www.series24hr.com/video/white-collar-season-6-ep-4/",
+	     "playInNatPlayer": "true"
+           },
+	   
+	{
+             "name": "EP 5",  
+	     "url": "https://www.series24hr.com/video/white-collar-season-6-ep-5/",
+	     "playInNatPlayer": "true"
+           },
+	   
+	{
+		"name": "EP 6",  
+	     "url": "https://www.series24hr.com/video/white-collar-season-6-ep-6/",
+	     "playInNatPlayer": "true"
+           },
+	   	
+  ]
+}
