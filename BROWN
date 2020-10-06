@@ -8,20 +8,24 @@
 	        
     	        {
 			"name": "CARTOONs",
-			"image": "https://1.bp.blogspot.com/-v-sTYSH3SIA/X3xCZVvm9DI/AAAAAAAAARY/jOJ8pBkStQEF8k2xWG5t0krm9f9kCwFWgCNcBGAsYHQ/s150/cartoon01.png",
+			"image": "https://1.bp.blogspot.com/-Gmr9siKaPog/X3xZDcNCRSI/AAAAAAAAARw/K3jOCmXkVAI-Zx4yHxynRqmom8tvm-4lQCNcBGAsYHQ/s200/cartoon01.png",
 			"url": "http://tiny.cc/001cartoonsme",
 			"import": false
 		},		
 
-
                {
                        "name": "MOVIEs",
-                       "image": "https://1.bp.blogspot.com/-F1_o0MctplI/X3xDXm_QTdI/AAAAAAAAARg/kYMA3fcQBKAOAnL5_UXv05NBDrq-ewOZACNcBGAsYHQ/s150/movie01.png",
+                       "image": "https://1.bp.blogspot.com/-2ax5cWtIhHc/X3xZDcQMI0I/AAAAAAAAAR0/ZFNDHmnJC4YpW6iigfRE1ouUudY6hh2jACNcBGAsYHQ/s200/movie01.png",
                        "url": "http://tiny.cc/002moviesme",
 		       "import": false
 		},		
 
-
+               {
+                       "name": "SERIEs",
+                       "image": "https://1.bp.blogspot.com/-491RGuc1sQo/X3xZD7v5X3I/AAAAAAAAAR4/1fUg5gtuiWYwfU4urPCoTIw6ujF52quMgCNcBGAsYHQ/s200/series01.png",
+                       "url": "http://tiny.cc/003seriesme",
+		       "import": false
+		},
 		
 		
     ]
