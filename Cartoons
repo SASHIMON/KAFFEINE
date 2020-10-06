@@ -28,35 +28,5 @@
 		},		
 
 
-		    {
-			"name": "3",
-			"image": "https://1.bp.blogspot.com/-wpGGWDnvBpI/X3tfJeQcVFI/AAAAAAAAAQw/uB-n-THBhI89eHU_LcZk-YEoYqT7udg8gCNcBGAsYHQ/s1280/sankarea.jpg",
-			"url": "http://tiny.cc/001sankarea",
-			"import": false
-		},		
-
-
-    {
-      "name": "44",
-      "image": "https://1.bp.blogspot.com/-RFlUyCWVaCc/X3tm18dyyUI/AAAAAAAAARM/K5c3bJiTNvMQeysvTqOsPYRtXk_tF4emgCNcBGAsYHQ/s696/HenNeko-FAQ-696x391.png",
-      "url": "http://tiny.cc/002OujiNeko",
-		  "import": false
-		},		
-    {
-			"name": "5",
-			"image": "https://1.bp.blogspot.com/-wpGGWDnvBpI/X3tfJeQcVFI/AAAAAAAAAQw/uB-n-THBhI89eHU_LcZk-YEoYqT7udg8gCNcBGAsYHQ/s1280/sankarea.jpg",
-			"url": "http://tiny.cc/001sankarea",
-			"import": false
-		},		
-
-
-    {
-      "name": "6",
-      "image": "https://1.bp.blogspot.com/-RFlUyCWVaCc/X3tm18dyyUI/AAAAAAAAARM/K5c3bJiTNvMQeysvTqOsPYRtXk_tF4emgCNcBGAsYHQ/s696/HenNeko-FAQ-696x391.png",
-      "url": "http://tiny.cc/002OujiNeko",
-		  "import": false
-		},		
-
-		
     ]
 }
