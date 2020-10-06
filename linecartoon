@@ -7,22 +7,9 @@
 	
 	        
     	        {
-			"name": "Line Town",
-			"image": "https://1.bp.blogspot.com/-ZhItvDfdmyQ/X3x3B430oLI/AAAAAAAAATQ/jJYGzR1_Exc3nD7PmXvfsMnBRWcZdBRfQCNcBGAsYHQ/s485/Line-Town-image.jpg",
-			"url": "http://tiny.cc/001linetownme",
-			"import": false
+			"name": "ยังไม่เปิดบริการ",
 		},		
-
-
-               {
-                       "name": "Line Salaryman",
-                       "image": "https://1.bp.blogspot.com/-VX0rXKEoik8/X3x3B8SXgGI/AAAAAAAAATU/rC9bdtC6WkEPSyCqXgN0cPc_jNCe-TCsQCNcBGAsYHQ/s550/5d682c90.jpg",
-                       "url": "http://tiny.cc/002linesalarymanme",
-		       "import": false
-		},		
-
-
-		
+	
 		
     ]
 }
