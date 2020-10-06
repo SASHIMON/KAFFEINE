@@ -6,10 +6,12 @@
 	"groups": [
 	
 	        
-    	        {
-			"name": "ยังไม่เปิิดบริการ",
-		},		
-		
+{
+			"name": "White Collar 6SS",
+			"image": "https://seiolp.files.wordpress.com/2015/05/white-collar-wallpaper.jpg",
+			"url": "http://tiny.cc/001WC6SSme",
+			"import": false
+		},	
 		
     ]
 }
