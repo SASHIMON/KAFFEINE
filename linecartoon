@@ -1,5 +1,5 @@
 {
-	"name": "Line Cartoon",
+	"name": "Line Story",
 	"author": "เรื่องราวของเหล่าตัวการ์ตูนไลน์",
 	"image": "https://1.bp.blogspot.com/-JOseb6GyL70/X3x2R-mAjqI/AAAAAAAAATE/COrwgdBUzzUM0BlrA8XJaG3CSuZyRHjrACNcBGAsYHQ/s800/line-keep-memo-1.png",
 	"url": "https://raw.githubusercontent.com/SASHIMON/KAFFEINE/main",
@@ -15,7 +15,7 @@
 
 
                {
-                       "name": "Line Offline : Line Salaryman",
+                       "name": "Line Salaryman",
                        "image": "https://1.bp.blogspot.com/-VX0rXKEoik8/X3x3B8SXgGI/AAAAAAAAATU/rC9bdtC6WkEPSyCqXgN0cPc_jNCe-TCsQCNcBGAsYHQ/s550/5d682c90.jpg",
                        "url": "http://tiny.cc/002linesalarymanme",
 		       "import": false
