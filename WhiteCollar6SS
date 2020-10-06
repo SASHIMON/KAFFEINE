@@ -9,31 +9,37 @@
    {
 			"name": "White Collar SS1",
       "url": "http://tiny.cc/001WCSS1me",
+      "import": false
 		},		
 
 		   {
 			"name": "White Collar SS2",
       "url": "http://tiny.cc/002WCSS2me",
+      "import": false
 		},	
     
        {
 			"name": "White Collar SS3",
       "url": "http://tiny.cc/003WCSS3me",
+      "import": false
 		},	
 		
            {
 			"name": "White Collar SS4",
       "url": "http://tiny.cc/004WCSS4me",
+      "import": false
 		},	
     
            {
 			"name": "White Collar SS5",
       "url": "http://tiny.cc/005WCSS5me",
+      "import": false
 		},	
     
            {
 			"name": "White Collar SS6",
       "url": "http://tiny.cc/006WCSS6me",
+      "import": false
 		},	
     
     ]
