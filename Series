@@ -7,11 +7,20 @@
 	
 	        
 {
-			"name": "White Collar 6SS",
+			"name": "[USA] White Collar 6SS",
 			"image": "https://seiolp.files.wordpress.com/2015/05/white-collar-wallpaper.jpg",
 			"url": "http://tiny.cc/001WC6SSme",
 			"import": false
 		},	
+				
 		
+{
+			"name": "[KR] Doctor Prisoner",
+			"image": "https://ดูซีรี่ย์เกาหลี.today/wp-content/uploads/2019/09/Doctor-Prisoner.jpg",
+			"url": "http://tiny.cc/meDoctorPrisonerKR",
+			"import": false
+		},
+
+
     ]
 }
