@@ -1,0 +1,18 @@
+{
+	"name": "คลังภาพยนตร์",
+	"author": "หนัง สะสม น่าดู",
+	"image": "https://1.bp.blogspot.com/-2ax5cWtIhHc/X3xZDcQMI0I/AAAAAAAAAR0/ZFNDHmnJC4YpW6iigfRE1ouUudY6hh2jACNcBGAsYHQ/s200/movie01.png",
+	"url": "https://raw.githubusercontent.com/SASHIMON/KAFFEINE/main",
+	"stations": [
+	
+	                {
+			                  "name": "(2009) G-Force หน่วยจารพันธุ์พิทักษ์โลก",
+			                  "image": "https://mono29.com/app/uploads/2016/12/14-15jan17_29web17.jpg",
+	                      "url": "https://bit.ly/36CfWCF",
+	                      "playInNatPlayer": "true"
+
+	                },
+	   
+  ]
+}
+	   
