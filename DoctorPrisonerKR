@@ -1,0 +1,91 @@
+{
+	"name": "Doctor Prisoner",
+	"author": "ซีรี่ย์เกาหลี Doctor Prisoner (2019) ซับไทย",
+	"image": "https://1.bp.blogspot.com/-8myUkGj19tE/X3x69p0u5fI/AAAAAAAAATk/LOZ1dpm5fv8MMsAfZbM1uBExINDRgMX1wCNcBGAsYHQ/s200/ee.png",
+	"url": "https://raw.githubusercontent.com/SASHIMON/KAFFEINE/main",
+	"stations": [
+	
+	{
+             "name": "EP 1+2",   
+	     "url": "https://ดูซีรี่ย์เกาหลี.today/1131-2/",
+	     "playInNatPlayer": "true"
+  },
+ {
+             "name": "EP 3+4",   
+	     "url": "https://ดูซีรี่ย์เกาหลี.today/1133-2/",
+	     "playInNatPlayer": "true"
+  },
+  	{
+             "name": "EP 5+6",   
+	     "url": "https://ดูซีรี่ย์เกาหลี.today/1135-2/",
+	     "playInNatPlayer": "true"
+  },
+ {
+             "name": "EP 7+8",   
+	     "url": "https://ดูซีรี่ย์เกาหลี.today/1137-2/",
+	     "playInNatPlayer": "true"
+  },
+  	{
+             "name": "EP 9+10",   
+	     "url": "https://ดูซีรี่ย์เกาหลี.today/1139-2/",
+	     "playInNatPlayer": "true"
+  },
+ {
+             "name": "EP 11+12",   
+	     "url": "https://ดูซีรี่ย์เกาหลี.today/1142-2/",
+	     "playInNatPlayer": "true"
+  },
+  	{
+             "name": "EP 13+14",   
+	     "url": "https://ดูซีรี่ย์เกาหลี.today/1144-2/",
+	     "playInNatPlayer": "true"
+  },
+ {
+             "name": "EP 15+16",   
+	     "url": "https://ดูซีรี่ย์เกาหลี.today/1146-2/",
+	     "playInNatPlayer": "true"
+  },
+  	{
+             "name": "EP 17+18",   
+	     "url": "https://ดูซีรี่ย์เกาหลี.today/1148-2/",
+	     "playInNatPlayer": "true"
+  },
+ {
+             "name": "EP 19+20",   
+	     "url": "https://ดูซีรี่ย์เกาหลี.today/1150-2/",
+	     "playInNatPlayer": "true"
+  },
+  	{
+             "name": "EP 21+22",   
+	     "url": "https://ดูซีรี่ย์เกาหลี.today/1152-2/",
+	     "playInNatPlayer": "true"
+  },
+ {
+             "name": "EP 23+24",   
+	     "url": "https://ดูซีรี่ย์เกาหลี.today/1154-2/",
+	     "playInNatPlayer": "true"
+  },
+  	{
+             "name": "EP 25+26",   
+	     "url": "https://ดูซีรี่ย์เกาหลี.today/1156-2/",
+	     "playInNatPlayer": "true"
+  },
+ {
+             "name": "EP 27=28",   
+	     "url": "https://ดูซีรี่ย์เกาหลี.today/1158-2/",
+	     "playInNatPlayer": "true"
+  },
+  	{
+             "name": "EP 29+30",   
+	     "url": "https://ดูซีรี่ย์เกาหลี.today/1160-2/",
+	     "playInNatPlayer": "true"
+  },
+ {
+             "name": "EP 31+32",   
+	     "url": "https://ดูซีรี่ย์เกาหลี.today/1162-2/",
+	     "playInNatPlayer": "true"
+  },
+  	
+  
+]
+}
