@@ -1,0 +1,92 @@
+{
+	"name": "Diabolik Lovers SS1",
+	"author": "Diabolik Lovers รักซาดิสม์ของเหล่าแวมไพร์ EP.1-12",
+	"image": "https://1.bp.blogspot.com/-8myUkGj19tE/X3x69p0u5fI/AAAAAAAAATk/LOZ1dpm5fv8MMsAfZbM1uBExINDRgMX1wCNcBGAsYHQ/s200/ee.png",
+	"url": "https://raw.githubusercontent.com/SASHIMON/KAFFEINE/main",
+	"stations": [
+	
+	{
+             "name": "EP 1",  
+	     "url": "https://ok-anime.com/play/l9w4BDSdjl/diabolik-lovers-%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-1-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2",
+             "referer": "https://ok-anime.com/",
+	     "playInNatPlayer": "true"
+           },
+	   
+	{
+             "name": "EP 2",  
+	     "url": "https://ok-anime.com/play/nAoHQLalD2/diabolik-lovers-%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-2-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2",
+             "referer": "https://ok-anime.com/",
+	     "playInNatPlayer": "true"
+           },
+	   
+	{
+		"name": "EP 3",  
+	     "url": "https://ok-anime.com/play/3Gb1Gs6arn/diabolik-lovers-%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-3-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2",
+             "referer": "https://ok-anime.com/",
+	     "playInNatPlayer": "true"
+           },
+	{
+             "name": "EP 4",  
+	     "url": "https://ok-anime.com/play/nNwTR8wJlP/diabolik-lovers-%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-4-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2",
+             "referer": "https://ok-anime.com/",
+	     "playInNatPlayer": "true"
+           },
+	   
+	{
+             "name": "EP 5",  
+	     "url": "https://ok-anime.com/play/5IquphfACT/diabolik-lovers-%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-5-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2",
+             "referer": "https://ok-anime.com/",
+	     "playInNatPlayer": "true"
+           },
+	   
+	{
+		"name": "EP 6",  
+	     "url": "https://ok-anime.com/play/DFzOHghOqJ/diabolik-lovers-%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-6-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2",
+             "referer": "https://ok-anime.com/",
+	     "playInNatPlayer": "true"
+           },
+	{
+             "name": "EP 7",  
+	     "url": "https://ok-anime.com/play/bNwHHoQd8b/diabolik-lovers-%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-7-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2",
+             "referer": "https://ok-anime.com/",
+	     "playInNatPlayer": "true"
+           },
+	   
+	{
+             "name": "EP 8",  
+	     "url": "https://ok-anime.com/play/3dUtHjKWUm/diabolik-lovers-%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-8-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2",
+             "referer": "https://ok-anime.com/",
+	     "playInNatPlayer": "true"
+           },
+	   
+	{
+		"name": "EP 9",  
+	     "url": "https://ok-anime.com/play/Px2plKFDy6/diabolik-lovers-%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-9-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2",
+             "referer": "https://ok-anime.com/",
+	     "playInNatPlayer": "true"
+           },
+		
+	{
+             "name": "EP 10",  
+	     "url": "https://ok-anime.com/play/mJUTrBhhPq/diabolik-lovers-%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-10-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2",
+             "referer": "https://ok-anime.com/",
+	     "playInNatPlayer": "true"
+           },
+	   
+	{
+             "name": "EP 11",  
+	     "url": "https://ok-anime.com/play/tTDnmlH7iB/diabolik-lovers-%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-11-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2",
+             "referer": "https://ok-anime.com/",
+	     "playInNatPlayer": "true"
+           },
+	   
+	{
+		"name": "EP 12",  
+	     "url": "https://ok-anime.com/play/u88xythe7Q/diabolik-lovers-%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-12-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2",
+             "referer": "https://ok-anime.com/",
+	     "playInNatPlayer": "true"
+           },
+	
+	
+    ]
+}
