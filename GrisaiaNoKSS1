@@ -1,0 +1,163 @@
+{
+	"name": "Grisaia no Kajitsu SS1",
+	"author": "Grisaia no Kajitsu ฮาเร็มในรั้วโรงเรียน EP.1-13 + Special Episode",
+	"image": "https://1.bp.blogspot.com/-8myUkGj19tE/X3x69p0u5fI/AAAAAAAAATk/LOZ1dpm5fv8MMsAfZbM1uBExINDRgMX1wCNcBGAsYHQ/s200/ee.png",
+	"url": "https://raw.githubusercontent.com/SASHIMON/KAFFEINE/main",
+	"stations": [
+	
+	{
+             "name": "EP 1",  
+	     "url": "https://www.anime-sugoi.com/play/143760/grisaia-no-kajitsu-1-01.html",
+             "referer": "https://www.anime-sugoi.com/",
+	     "playInNatPlayer": "true"
+           },
+	   
+	
+	{
+             "name": "EP 2",  
+	     "url": "https://www.anime-sugoi.com/play/143763/grisaia-no-kajitsu-1-02.html",
+             "referer": "https://www.anime-sugoi.com/",
+	     "playInNatPlayer": "true"
+           },
+	   
+	
+	{
+             "name": "EP 3",  
+	     "url": "https://www.anime-sugoi.com/play/143766/grisaia-no-kajitsu-1-03.html",
+             "referer": "https://www.anime-sugoi.com/",
+	     "playInNatPlayer": "true"
+           },
+	   
+	
+	{
+             "name": "EP 4",  
+	     "url": "https://www.anime-sugoi.com/play/143769/grisaia-no-kajitsu-1-04.html",
+             "referer": "https://www.anime-sugoi.com/",
+	     "playInNatPlayer": "true"
+           },
+	   
+	
+	{
+             "name": "EP 5",  
+	     "url": "https://www.anime-sugoi.com/play/143772/grisaia-no-kajitsu-1-05.html",
+             "referer": "https://www.anime-sugoi.com/",
+	     "playInNatPlayer": "true"
+           },
+	   
+	
+	{
+             "name": "EP 6",  
+	     "url": "https://www.anime-sugoi.com/play/143775/grisaia-no-kajitsu-1-06.html",
+             "referer": "https://www.anime-sugoi.com/",
+	     "playInNatPlayer": "true"
+           },
+	   
+	
+	{
+             "name": "EP 7",  
+	     "url": "https://www.anime-sugoi.com/play/143778/grisaia-no-kajitsu-1-07.html",
+             "referer": "https://www.anime-sugoi.com/",
+	     "playInNatPlayer": "true"
+           },
+	   
+	
+	{
+             "name": "EP 8",  
+	     "url": "https://www.anime-sugoi.com/play/143781/grisaia-no-kajitsu-1-08.html",
+             "referer": "https://www.anime-sugoi.com/",
+	     "playInNatPlayer": "true"
+           },
+	   
+	
+	{
+             "name": "EP 9",  
+	     "url": "https://www.anime-sugoi.com/play/143784/grisaia-no-kajitsu-1-09.html",
+             "referer": "https://www.anime-sugoi.com/",
+	     "playInNatPlayer": "true"
+           },
+	   
+	
+	{
+             "name": "EP 10",  
+	     "url": "https://www.anime-sugoi.com/play/143787/grisaia-no-kajitsu-1-10.html",
+             "referer": "https://www.anime-sugoi.com/",
+	     "playInNatPlayer": "true"
+           },
+	   
+	
+	{
+             "name": "EP 11",  
+	     "url": "https://www.anime-sugoi.com/play/143790/grisaia-no-kajitsu-1-11.html",
+             "referer": "https://www.anime-sugoi.com/",
+	     "playInNatPlayer": "true"
+           },
+	   
+	
+	{
+             "name": "EP 12",  
+	     "url": "https://www.anime-sugoi.com/play/143793/grisaia-no-kajitsu-1-12.html",
+             "referer": "https://www.anime-sugoi.com/",
+	     "playInNatPlayer": "true"
+           },
+
+	{
+             "name": "EP 13",  
+	     "url": "https://www.anime-sugoi.com/play/143796/grisaia-no-kajitsu-1-13.html",
+             "referer": "https://www.anime-sugoi.com/",
+	     "playInNatPlayer": "true"
+           },
+
+{
+             "name": "Special EP1",  
+             "image": "https://1.bp.blogspot.com/-7eegk7GyxcU/X33p9qFFsCI/AAAAAAAAAT8/vgl1TtgNAH0dHcLvScCSZfb7PFOzaZpIQCNcBGAsYHQ/s456/SP01.png",
+	      "url": "https://www.anime-sugoi.com/play/143799/grisaia-no-kajitsu-1-sp1.html",
+             "referer": "https://www.anime-sugoi.com/",
+	     "playInNatPlayer": "true"
+           },
+	   
+	
+	{
+             "name": "Special EP2",  
+              "image": "https://1.bp.blogspot.com/-7eegk7GyxcU/X33p9qFFsCI/AAAAAAAAAT8/vgl1TtgNAH0dHcLvScCSZfb7PFOzaZpIQCNcBGAsYHQ/s456/SP01.png",
+	     "url": "https://www.anime-sugoi.com/play/143802/grisaia-no-kajitsu-1-sp2.html",
+             "referer": "https://www.anime-sugoi.com/",
+	     "playInNatPlayer": "true"
+           },
+	   
+	
+	{
+             "name": "Special EP3",  
+             "image": "https://1.bp.blogspot.com/-7eegk7GyxcU/X33p9qFFsCI/AAAAAAAAAT8/vgl1TtgNAH0dHcLvScCSZfb7PFOzaZpIQCNcBGAsYHQ/s456/SP01.png",
+	     "url": "https://www.anime-sugoi.com/play/143805/grisaia-no-kajitsu-1-sp3.html",
+             "referer": "https://www.anime-sugoi.com/",
+	     "playInNatPlayer": "true"
+           },
+	   
+	
+	{
+             "name": "Special EP4",  
+             "image": "https://1.bp.blogspot.com/-7eegk7GyxcU/X33p9qFFsCI/AAAAAAAAAT8/vgl1TtgNAH0dHcLvScCSZfb7PFOzaZpIQCNcBGAsYHQ/s456/SP01.png",
+	     "url": "https://www.anime-sugoi.com/play/143808/grisaia-no-kajitsu-1-sp4.html",
+             "referer": "https://www.anime-sugoi.com/",
+	     "playInNatPlayer": "true"
+           },
+	   
+	
+	{
+             "name": "Special EP5",  
+             "image": "https://1.bp.blogspot.com/-7eegk7GyxcU/X33p9qFFsCI/AAAAAAAAAT8/vgl1TtgNAH0dHcLvScCSZfb7PFOzaZpIQCNcBGAsYHQ/s456/SP01.png",
+	     "url": "https://www.anime-sugoi.com/play/143811/grisaia-no-kajitsu-1-sp5.html",
+             "referer": "https://www.anime-sugoi.com/",
+	     "playInNatPlayer": "true"
+           },
+	   
+	{
+             "name": "Special EP6",  
+             "image": "https://1.bp.blogspot.com/-7eegk7GyxcU/X33p9qFFsCI/AAAAAAAAAT8/vgl1TtgNAH0dHcLvScCSZfb7PFOzaZpIQCNcBGAsYHQ/s456/SP01.png",
+	     "url": "https://www.anime-sugoi.com/play/143814/grisaia-no-kajitsu-1-sp6.html",
+             "referer": "https://www.anime-sugoi.com/",
+	     "playInNatPlayer": "true"
+           },
+	
+    ]
+}
