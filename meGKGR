@@ -1,0 +1,26 @@
+{
+	"name": "ฮาเร็มในรั้วโรงเรียน",
+	"author": "ฮาเร็มในรั้วโรงเรียน SS1 SS2 + Special | BD UNCEN 18+ ",
+	"image": "https://1.bp.blogspot.com/-8myUkGj19tE/X3x69p0u5fI/AAAAAAAAATk/LOZ1dpm5fv8MMsAfZbM1uBExINDRgMX1wCNcBGAsYHQ/s200/ee.png",
+	"url": "https://raw.githubusercontent.com/SASHIMON/KAFFEINE/main",
+	"groups": [
+  
+        {
+              "name": "Grisaia no Kajitsu SS1",   
+              "image": "https://3.bp.blogspot.com/-wJYnutaWUHU/VMy6vE9oZZI/AAAAAAAAe20/1uAAboSZwHc/s1600/Grisaia-no-Kajitsu-7.jpg",
+	            "url": "http://tiny.cc/meGrisaianoKSS1",
+              "import": false
+	            
+           },
+  
+        {
+              "name": "Grisaia no Rakuen SS2",   
+              "image": "https://1.bp.blogspot.com/-KgKaqtKbDhc/VUrtYq5zQ9I/AAAAAAAACdQ/0ock4g7HRjU/s1600/341241-grisaia-no-kajitsu.jpg",
+	            "url": "http://tiny.cc/meGrisaianoRSS2",
+              "import": false
+	            
+           },  
+  
+  
+  ]
+}
