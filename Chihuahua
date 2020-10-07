@@ -1,0 +1,31 @@
+{
+	"name": "Beverly Hills Chihuahua",
+	"author": "Beverly Hills Chihuahua คุณหมาไฮโซ โกบ้านนอก 1-2-3",
+	"image": "https://1.bp.blogspot.com/-8myUkGj19tE/X3x69p0u5fI/AAAAAAAAATk/LOZ1dpm5fv8MMsAfZbM1uBExINDRgMX1wCNcBGAsYHQ/s200/ee.png",
+	"url": "https://raw.githubusercontent.com/SASHIMON/KAFFEINE/main",
+	"stations": [
+	
+	{
+             "name": "(2008) ภาค1",   
+	     "image": "https://movie285.com/wp-content/uploads/2019/04/1.jpg",
+	     "url": "https://doomovie.online/1/",
+	     "playInNatPlayer": "true"
+           },
+	   
+	{
+             "name": "(2011) ภาค2",   
+	     "image": "https://cdni-cf.ch7.com/dm/sz-md/i/mg/7/a/f/7af504b90d0c885a30828a347dc61187_24beverly_hills_chihuahua_2.jpg",
+	     "url": "https://doomovie.online/18/",
+	     "playInNatPlayer": "true"
+           },
+           
+  	{
+             "name": "(2012) ภาค3",   
+	     "image": "https://4.bp.blogspot.com/-F2GM_Yyx72Q/WOjqWOA2oBI/AAAAAAAAATA/ggZh2yXmMQUpeb64hGr_PcKOiJo4M2UmgCLcB/s1600/Beverly-Hills-Chihuahua-3-Viva-La-Fiesta-2012-%25E0%25B8%2584%25E0%25B8%25B8%25E0%25B8%2593%25E0%25B8%25AB%25E0%25B8%25A1%25E0%25B8%25B2%25E0%25B9%2584%25E0%25B8%25AE%25E0%25B9%2582%25E0%25B8%258B-%25E0%25B9%2582%25E0%25B8%2581%25E0%25B8%259A%25E0%25B9%2589%25E0%25B8%25B2%25E0%25B8%2599%25E0%25B8%2599%25E0%25B8%25AD%25E0%25B8%2581-%25E0%25B8%25A0%25E0%25B8%25B2%25E0%25B8%2584-3-e1472187121768.jpg",
+	     "url": "https://doomovie.online/21/",
+	     "playInNatPlayer": "true"
+           },
+           
+           
+   ]
+}
