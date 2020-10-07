@@ -15,17 +15,23 @@
 	"url": "http://tiny.cc/meMoviesBoxSet",
 	"import": false
 		},		
-   
+{
+   "stations": [
     
     {
 			"name": "(2009) G-Force หน่วยจารพันธุ์พิทักษ์โลก",
 			"image": "https://mono29.com/app/uploads/2016/12/14-15jan17_29web17.jpg",
 	"url": "https://bit.ly/36CfWCF",
-		"import": false
+	"playInNatPlayer": "true"
 
 	},	
 	
 	
 	
     ]
+}		
+  
+   ]
+   
+
 }
