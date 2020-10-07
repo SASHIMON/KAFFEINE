@@ -19,13 +19,6 @@
                        "url": "http://tiny.cc/002moviesme",
 		       "import": false
 		},		
-
-               {
-                       "name": "SERIES",
-                       "image": "https://1.bp.blogspot.com/-491RGuc1sQo/X3xZD7v5X3I/AAAAAAAAAR4/1fUg5gtuiWYwfU4urPCoTIw6ujF52quMgCNcBGAsYHQ/s200/series01.png",
-                       "url": "http://tiny.cc/003seriesme",
-		       "import": false
-		},
 		
 		
     ]
