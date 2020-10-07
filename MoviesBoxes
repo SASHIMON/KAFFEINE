@@ -13,7 +13,12 @@
 	"import": false
 		},		
 
-	
+	   {
+			"name": "Beverly Hills Chihuahua",
+    "image": "https://i.ytimg.com/vi/nd96yoyfcHU/maxresdefault.jpg",
+	"url": "http://tiny.cc/meChihuahua1-2-3",
+	"import": false
+		},
 		
     ]
 }
