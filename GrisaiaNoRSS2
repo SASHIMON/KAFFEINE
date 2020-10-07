@@ -1,0 +1,135 @@
+{
+	"name": "Grisaia no Rakuen SS2",
+	"author": "Grisaia no Rakuen ฮาเร็มในรั้วโรงเรียน EP.1-12 + Special Episode",
+	"image": "https://1.bp.blogspot.com/-8myUkGj19tE/X3x69p0u5fI/AAAAAAAAATk/LOZ1dpm5fv8MMsAfZbM1uBExINDRgMX1wCNcBGAsYHQ/s200/ee.png",
+	"url": "https://raw.githubusercontent.com/SASHIMON/KAFFEINE/main",
+	"stations": [
+	
+	{
+             "name": "EP 1",  
+	     "url": "https://www.anime-sugoi.com/play/97806/grisaia-no-rakuen-2-01.html",
+             "referer": "https://www.anime-sugoi.com/",
+	     "playInNatPlayer": "true"
+           },
+	   
+	
+	{
+             "name": "EP 2",  
+	     "url": "https://www.anime-sugoi.com/play/97809/grisaia-no-rakuen-2-02.html",
+             "referer": "https://www.anime-sugoi.com/",
+	     "playInNatPlayer": "true"
+           },
+	   
+	
+	{
+             "name": "EP 3",  
+	     "url": "https://www.anime-sugoi.com/play/97812/grisaia-no-rakuen-2-03.html",
+             "referer": "https://www.anime-sugoi.com/",
+	     "playInNatPlayer": "true"
+           },
+	   
+	
+	{
+             "name": "EP 4",  
+	     "url": "https://www.anime-sugoi.com/play/97815/grisaia-no-rakuen-2-04.html",
+             "referer": "https://www.anime-sugoi.com/",
+	     "playInNatPlayer": "true"
+           },
+	   
+	
+	{
+             "name": "EP 5",  
+	     "url": "https://www.anime-sugoi.com/play/97818/grisaia-no-rakuen-2-05.html",
+             "referer": "https://www.anime-sugoi.com/",
+	     "playInNatPlayer": "true"
+           },
+	   
+	
+	{
+             "name": "EP 6",  
+	     "url": "https://www.anime-sugoi.com/play/97821/grisaia-no-rakuen-2-06.html",
+             "referer": "https://www.anime-sugoi.com/",
+	     "playInNatPlayer": "true"
+           },
+	   
+	
+	{
+             "name": "EP 7",  
+	     "url": "https://www.anime-sugoi.com/play/97824/grisaia-no-rakuen-2-07.html",
+             "referer": "https://www.anime-sugoi.com/",
+	     "playInNatPlayer": "true"
+           },
+	   
+	
+	{
+             "name": "EP 8",  
+	     "url": "https://www.anime-sugoi.com/play/97827/grisaia-no-rakuen-2-08.html",
+             "referer": "https://www.anime-sugoi.com/",
+	     "playInNatPlayer": "true"
+           },
+	   
+	
+	{
+             "name": "EP 9",  
+	     "url": "https://www.anime-sugoi.com/play/97830/grisaia-no-rakuen-2-09.html",
+             "referer": "https://www.anime-sugoi.com/",
+	     "playInNatPlayer": "true"
+           },
+	   
+	
+	{
+             "name": "EP 10",  
+	     "url": "https://www.anime-sugoi.com/play/97833/grisaia-no-rakuen-2-10.html",
+             "referer": "https://www.anime-sugoi.com/",
+	     "playInNatPlayer": "true"
+           },
+	
+{
+             "name": "Special EP1",  
+             "image": "https://1.bp.blogspot.com/-7eegk7GyxcU/X33p9qFFsCI/AAAAAAAAAT8/vgl1TtgNAH0dHcLvScCSZfb7PFOzaZpIQCNcBGAsYHQ/s456/SP01.png",
+	      "url": "https://www.anime-sugoi.com/play/97836/grisaia-no-rakuen-2-sp1.html",
+             "referer": "https://www.anime-sugoi.com/",
+	     "playInNatPlayer": "true"
+           },
+	   
+	
+	{
+             "name": "Special EP2",  
+              "image": "https://1.bp.blogspot.com/-7eegk7GyxcU/X33p9qFFsCI/AAAAAAAAAT8/vgl1TtgNAH0dHcLvScCSZfb7PFOzaZpIQCNcBGAsYHQ/s456/SP01.png",
+	     "url": "https://www.anime-sugoi.com/play/97839/grisaia-no-rakuen-2-sp2.html",
+             "referer": "https://www.anime-sugoi.com/",
+	     "playInNatPlayer": "true"
+           },
+	   
+	
+	{
+             "name": "Special EP3",  
+             "image": "https://1.bp.blogspot.com/-7eegk7GyxcU/X33p9qFFsCI/AAAAAAAAAT8/vgl1TtgNAH0dHcLvScCSZfb7PFOzaZpIQCNcBGAsYHQ/s456/SP01.png",
+	     "url": "https://www.anime-sugoi.com/play/97842/grisaia-no-rakuen-2-sp3.html",
+             "referer": "https://www.anime-sugoi.com/",
+	     "playInNatPlayer": "true"
+           },
+	   
+	
+	{
+             "name": "Special EP4",  
+             "image": "https://1.bp.blogspot.com/-7eegk7GyxcU/X33p9qFFsCI/AAAAAAAAAT8/vgl1TtgNAH0dHcLvScCSZfb7PFOzaZpIQCNcBGAsYHQ/s456/SP01.png",
+	     "url": "https://www.anime-sugoi.com/play/97845/grisaia-no-rakuen-2-sp4.html",
+             "referer": "https://www.anime-sugoi.com/",
+	     "playInNatPlayer": "true"
+           },
+	   
+	
+	{
+             "name": "Special EP5",  
+             "image": "https://1.bp.blogspot.com/-7eegk7GyxcU/X33p9qFFsCI/AAAAAAAAAT8/vgl1TtgNAH0dHcLvScCSZfb7PFOzaZpIQCNcBGAsYHQ/s456/SP01.png",
+	     "url": "https://www.anime-sugoi.com/play/97848/grisaia-no-rakuen-2-sp5.html",
+             "referer": "https://www.anime-sugoi.com/",
+	     "playInNatPlayer": "true"
+           },
+
+	
+
+	
+    ]
+}
