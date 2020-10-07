@@ -6,86 +6,199 @@
 	"stations": [
 	
 	{
-             "name": "EP 1+2",   
+             "name": "EP ",   
 	     "url": "https://www.mawintv.com/series/doctor-prisoner-2019-32-%e0%b8%95%e0%b8%ad%e0%b8%99-%e0%b8%88%e0%b8%9a/?ep=1",
 	     "playInNatPlayer": "true"
   },
- {
-             "name": "EP 3+4",   
-	     "url": "https://ดูซีรี่ย์เกาหลี.today/1133-2/",
+	{
+             "name": "EP ",   
+	     "url": "https://www.mawintv.com/series/doctor-prisoner-2019-32-%e0%b8%95%e0%b8%ad%e0%b8%99-%e0%b8%88%e0%b8%9a/?ep=1",
 	     "playInNatPlayer": "true"
   },
-  	{
-             "name": "EP 5+6",   
-	     "url": "https://ดูซีรี่ย์เกาหลี.today/1135-2/",
+	{
+             "name": "EP ",   
+	     "url": "https://www.mawintv.com/series/doctor-prisoner-2019-32-%e0%b8%95%e0%b8%ad%e0%b8%99-%e0%b8%88%e0%b8%9a/?ep=1",
 	     "playInNatPlayer": "true"
   },
- {
-             "name": "EP 7+8",   
-	     "url": "https://ดูซีรี่ย์เกาหลี.today/1137-2/",
+	{
+             "name": "EP 1",   
+	     "url": "https://www.mawintv.com/series/doctor-prisoner-2019-32-%e0%b8%95%e0%b8%ad%e0%b8%99-%e0%b8%88%e0%b8%9a/?ep=1",
 	     "playInNatPlayer": "true"
   },
-  	{
-             "name": "EP 9+10",   
-	     "url": "https://ดูซีรี่ย์เกาหลี.today/1139-2/",
-	     "playInNatPlayer": "true"
-  },
- {
-             "name": "EP 11+12",   
-	     "url": "https://ดูซีรี่ย์เกาหลี.today/1142-2/",
-	     "playInNatPlayer": "true"
-  },
-  	{
-             "name": "EP 13+14",   
-	     "url": "https://ดูซีรี่ย์เกาหลี.today/1144-2/",
-	     "playInNatPlayer": "true"
-  },
- {
-             "name": "EP 15+16",   
-	     "url": "https://ดูซีรี่ย์เกาหลี.today/1146-2/",
-	     "playInNatPlayer": "true"
-  },
-  	{
-             "name": "EP 17+18",   
-	     "url": "https://ดูซีรี่ย์เกาหลี.today/1148-2/",
-	     "playInNatPlayer": "true"
-  },
- {
-             "name": "EP 19+20",   
-	     "url": "https://ดูซีรี่ย์เกาหลี.today/1150-2/",
-	     "playInNatPlayer": "true"
-  },
-  	{
-             "name": "EP 21+22",   
-	     "url": "https://ดูซีรี่ย์เกาหลี.today/1152-2/",
-	     "playInNatPlayer": "true"
-  },
- {
-             "name": "EP 23+24",   
-	     "url": "https://ดูซีรี่ย์เกาหลี.today/1154-2/",
-	     "playInNatPlayer": "true"
-  },
-  	{
-             "name": "EP 25+26",   
-	     "url": "https://ดูซีรี่ย์เกาหลี.today/1156-2/",
-	     "playInNatPlayer": "true"
-  },
- {
-             "name": "EP 27=28",   
-	     "url": "https://ดูซีรี่ย์เกาหลี.today/1158-2/",
-	     "playInNatPlayer": "true"
-  },
-  	{
-             "name": "EP 29+30",   
-	     "url": "https://ดูซีรี่ย์เกาหลี.today/1160-2/",
-	     "playInNatPlayer": "true"
-  },
- {
-             "name": "EP 31+32",   
-	     "url": "https://ดูซีรี่ย์เกาหลี.today/1162-2/",
+  
+	{
+             "name": "EP 2",   
+	     "url": "https://www.mawintv.com/series/doctor-prisoner-2019-32-%e0%b8%95%e0%b8%ad%e0%b8%99-%e0%b8%88%e0%b8%9a/?ep=2",
 	     "playInNatPlayer": "true"
   },
   	
+	{
+             "name": "EP 3",   
+	     "url": "https://www.mawintv.com/series/doctor-prisoner-2019-32-%e0%b8%95%e0%b8%ad%e0%b8%99-%e0%b8%88%e0%b8%9a/?ep=3",
+	     "playInNatPlayer": "true"
+  },
+
+	{
+             "name": "EP 4",   
+	     "url": "https://www.mawintv.com/series/doctor-prisoner-2019-32-%e0%b8%95%e0%b8%ad%e0%b8%99-%e0%b8%88%e0%b8%9a/?ep=4",
+	     "playInNatPlayer": "true"
+  },
+	{
+             "name": "EP 5",   
+	     "url": "https://www.mawintv.com/series/doctor-prisoner-2019-32-%e0%b8%95%e0%b8%ad%e0%b8%99-%e0%b8%88%e0%b8%9a/?ep=5",
+	     "playInNatPlayer": "true"
+  },
   
+	{
+             "name": "EP 6",   
+	     "url": "https://www.mawintv.com/series/doctor-prisoner-2019-32-%e0%b8%95%e0%b8%ad%e0%b8%99-%e0%b8%88%e0%b8%9a/?ep=6",
+	     "playInNatPlayer": "true"
+  },
+
+	{
+             "name": "EP 7",   
+	     "url": "https://www.mawintv.com/series/doctor-prisoner-2019-32-%e0%b8%95%e0%b8%ad%e0%b8%99-%e0%b8%88%e0%b8%9a/?ep=7",
+	     "playInNatPlayer": "true"
+  },
+	{
+             "name": "EP 8",   
+	     "url": "https://www.mawintv.com/series/doctor-prisoner-2019-32-%e0%b8%95%e0%b8%ad%e0%b8%99-%e0%b8%88%e0%b8%9a/?ep=8",
+	     "playInNatPlayer": "true"
+  },
+	{
+             "name": "EP 9",   
+	     "url": "https://www.mawintv.com/series/doctor-prisoner-2019-32-%e0%b8%95%e0%b8%ad%e0%b8%99-%e0%b8%88%e0%b8%9a/?ep=9",
+	     "playInNatPlayer": "true"
+  },
+	{
+             "name": "EP 10",   
+	     "url": "https://www.mawintv.com/series/doctor-prisoner-2019-32-%e0%b8%95%e0%b8%ad%e0%b8%99-%e0%b8%88%e0%b8%9a/?ep=10",
+	     "playInNatPlayer": "true"
+  },
+  
+	{
+             "name": "EP 11",   
+	     "url": "https://www.mawintv.com/series/doctor-prisoner-2019-32-%e0%b8%95%e0%b8%ad%e0%b8%99-%e0%b8%88%e0%b8%9a/?ep=11",
+	     "playInNatPlayer": "true"
+  },
+
+	{
+             "name": "EP 12",   
+	     "url": "https://www.mawintv.com/series/doctor-prisoner-2019-32-%e0%b8%95%e0%b8%ad%e0%b8%99-%e0%b8%88%e0%b8%9a/?ep=12",
+	     "playInNatPlayer": "true"
+  },
+	{
+             "name": "EP 13",   
+	     "url": "https://www.mawintv.com/series/doctor-prisoner-2019-32-%e0%b8%95%e0%b8%ad%e0%b8%99-%e0%b8%88%e0%b8%9a/?ep=13",
+	     "playInNatPlayer": "true"
+  },
+	{
+             "name": "EP 14",   
+	     "url": "https://www.mawintv.com/series/doctor-prisoner-2019-32-%e0%b8%95%e0%b8%ad%e0%b8%99-%e0%b8%88%e0%b8%9a/?ep=14",
+	     "playInNatPlayer": "true"
+  },
+	{
+             "name": "EP 15",   
+	     "url": "https://www.mawintv.com/series/doctor-prisoner-2019-32-%e0%b8%95%e0%b8%ad%e0%b8%99-%e0%b8%88%e0%b8%9a/?ep=15",
+	     "playInNatPlayer": "true"
+  },
+  
+	{
+             "name": "EP 16",   
+	     "url": "https://www.mawintv.com/series/doctor-prisoner-2019-32-%e0%b8%95%e0%b8%ad%e0%b8%99-%e0%b8%88%e0%b8%9a/?ep=16",
+	     "playInNatPlayer": "true"
+  },
+
+	{
+             "name": "EP 17",   
+	     "url": "https://www.mawintv.com/series/doctor-prisoner-2019-32-%e0%b8%95%e0%b8%ad%e0%b8%99-%e0%b8%88%e0%b8%9a/?ep=17",
+	     "playInNatPlayer": "true"
+  },
+	{
+             "name": "EP 18",   
+	     "url": "https://www.mawintv.com/series/doctor-prisoner-2019-32-%e0%b8%95%e0%b8%ad%e0%b8%99-%e0%b8%88%e0%b8%9a/?ep=18",
+	     "playInNatPlayer": "true"
+  },
+	{
+             "name": "EP 19",   
+	     "url": "https://www.mawintv.com/series/doctor-prisoner-2019-32-%e0%b8%95%e0%b8%ad%e0%b8%99-%e0%b8%88%e0%b8%9a/?ep=19",
+	     "playInNatPlayer": "true"
+  },
+	{
+             "name": "EP 20",   
+	     "url": "https://www.mawintv.com/series/doctor-prisoner-2019-32-%e0%b8%95%e0%b8%ad%e0%b8%99-%e0%b8%88%e0%b8%9a/?ep=20",
+	     "playInNatPlayer": "true"
+  },
+  
+	{
+             "name": "EP 21",   
+	     "url": "https://www.mawintv.com/series/doctor-prisoner-2019-32-%e0%b8%95%e0%b8%ad%e0%b8%99-%e0%b8%88%e0%b8%9a/?ep=21",
+	     "playInNatPlayer": "true"
+  },
+  
+  
+	{
+             "name": "EP 22",   
+	     "url": "https://www.mawintv.com/series/doctor-prisoner-2019-32-%e0%b8%95%e0%b8%ad%e0%b8%99-%e0%b8%88%e0%b8%9a/?ep=22",
+	     "playInNatPlayer": "true"
+  },
+	{
+             "name": "EP 23",   
+	     "url": "https://www.mawintv.com/series/doctor-prisoner-2019-32-%e0%b8%95%e0%b8%ad%e0%b8%99-%e0%b8%88%e0%b8%9a/?ep=23",
+	     "playInNatPlayer": "true"
+  },
+	{
+             "name": "EP 24",   
+	     "url": "https://www.mawintv.com/series/doctor-prisoner-2019-32-%e0%b8%95%e0%b8%ad%e0%b8%99-%e0%b8%88%e0%b8%9a/?ep=24",
+	     "playInNatPlayer": "true"
+  },
+	{
+             "name": "EP 25",   
+	     "url": "https://www.mawintv.com/series/doctor-prisoner-2019-32-%e0%b8%95%e0%b8%ad%e0%b8%99-%e0%b8%88%e0%b8%9a/?ep=25",
+	     "playInNatPlayer": "true"
+  },
+  
+	{
+             "name": "EP 26",   
+	     "url": "https://www.mawintv.com/series/doctor-prisoner-2019-32-%e0%b8%95%e0%b8%ad%e0%b8%99-%e0%b8%88%e0%b8%9a/?ep=26",
+	     "playInNatPlayer": "true"
+  },
+
+	{
+             "name": "EP 27",   
+	     "url": "https://www.mawintv.com/series/doctor-prisoner-2019-32-%e0%b8%95%e0%b8%ad%e0%b8%99-%e0%b8%88%e0%b8%9a/?ep=27",
+	     "playInNatPlayer": "true"
+  },
+	{
+             "name": "EP 28",   
+	     "url": "https://www.mawintv.com/series/doctor-prisoner-2019-32-%e0%b8%95%e0%b8%ad%e0%b8%99-%e0%b8%88%e0%b8%9a/?ep=28",
+	     "playInNatPlayer": "true"
+  },
+	{
+             "name": "EP 29",   
+	     "url": "https://www.mawintv.com/series/doctor-prisoner-2019-32-%e0%b8%95%e0%b8%ad%e0%b8%99-%e0%b8%88%e0%b8%9a/?ep=29",
+	     "playInNatPlayer": "true"
+  },
+	{
+             "name": "EP 30",   
+	     "url": "https://www.mawintv.com/series/doctor-prisoner-2019-32-%e0%b8%95%e0%b8%ad%e0%b8%99-%e0%b8%88%e0%b8%9a/?ep=30",
+	     "playInNatPlayer": "true"
+  },
+  
+	{
+             "name": "EP 31",   
+	     "url": "https://www.mawintv.com/series/doctor-prisoner-2019-32-%e0%b8%95%e0%b8%ad%e0%b8%99-%e0%b8%88%e0%b8%9a/?ep=31",
+	     "playInNatPlayer": "true"
+  },
+
+  
+	{
+             "name": "EP 32",   
+	     "url": "https://www.mawintv.com/series/doctor-prisoner-2019-32-%e0%b8%95%e0%b8%ad%e0%b8%99-%e0%b8%88%e0%b8%9a/?ep=32",
+	     "playInNatPlayer": "true"
+  },
+
+
+
 ]
 }
