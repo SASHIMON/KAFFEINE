@@ -8,7 +8,7 @@
 	        
 {
 			"name": "[USA] White Collar 6SS",
-			"image": "https://seiolp.files.wordpress.com/2015/05/white-collar-wallpaper.jpg",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/61EOYeLPXSL._AC_SY445_.jpg",
 			"url": "http://tiny.cc/001WC6SSme",
 			"import": false
 		},	
@@ -16,10 +16,18 @@
 		
 {
 			"name": "[KR] Doctor Prisoner",
-			"image": "https://ดูซีรี่ย์เกาหลี.today/wp-content/uploads/2019/09/Doctor-Prisoner.jpg",
+			"image": "https://dunnung.com/wp-content/uploads/2020/06/751.jpg",
 			"url": "http://tiny.cc/meDoctorPrisonerKR",
 			"import": false
 		},
+
+{
+			"name": "[USA] Fringe 5SS",
+			"image": "https://www.series24hr.com/wp-content/uploads/2016/05/fringeS5-1.jpg",
+			"url": "http://tiny.cc/meFringe5SS",
+			"import": false
+		},
+
 
 
     ]
