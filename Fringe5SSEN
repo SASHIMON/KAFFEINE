@@ -1,0 +1,41 @@
+{
+	"name": "Fringe",
+	"author": "Fringe ฟรินจ์ เลาะปมพิศวงโลก (TH SUB) SS1-SS5 END",
+	"image": "https://1.bp.blogspot.com/-8myUkGj19tE/X3x69p0u5fI/AAAAAAAAATk/LOZ1dpm5fv8MMsAfZbM1uBExINDRgMX1wCNcBGAsYHQ/s200/ee.png",
+	"url": "https://raw.githubusercontent.com/SASHIMON/KAFFEINE/main",
+	"groups": [
+	
+	        
+   {
+			"name": "(2008) Fringe SS1",
+      "url": "http://tiny.cc/001FringeSS1me",
+      "import": false
+		},		
+
+		   {
+			"name": "Fringe SS2",
+      "url": "http://tiny.cc/002FringeSS2me",
+      "import": false
+		},	
+    
+       {
+			"name": "Fringe SS3",
+      "url": "http://tiny.cc/003FringeSS3me",
+      "import": false
+		},	
+		
+           {
+			"name": "Fringe SS4",
+      "url": "http://tiny.cc/004FringeSS4me",
+      "import": false
+		},	
+    
+           {
+			"name": "Fringe SS5",
+      "url": "http://tiny.cc/005FringeSS5me",
+      "import": false
+		},	
+
+    
+    ]
+}
