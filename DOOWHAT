@@ -10,49 +10,56 @@
              "name": "AXN HD",  
 	     "image": "https://1.bp.blogspot.com/-LmQQL4GUXd4/X9TYv1i-2DI/AAAAAAAAAU0/Iyd3HQuCdkMQYKF85Rz256m2a6CeUAIwgCNcBGAsYHQ/s320/AXNHD655.png"
        "url": "https://www.we-play.tv/watching/tv/axn-hd",
-	     "import": false
+	      "referer": "https://www.we-play.tv/",
+	     "playInNatPlayer": "true"
            },
 	   
 	{
 		        "name": "Cinemax",  
 	     "image": "https://1.bp.blogspot.com/-OA_YVFo1JFQ/X9TZdqTMtbI/AAAAAAAAAU8/SPf74zYd0P4Zwj3wuoVPAcgcEjDzLoFKQCNcBGAsYHQ/s320/cinemaxlogo.jpg"
        "url": "https://www.we-play.tv/watching/tv/cinemax",
-	     "import": false
+	     "referer": "https://www.we-play.tv/",
+	     "playInNatPlayer": "true"
            },
 	
 	{
              "name": "Hi-Def 1",   
 	     "image": "https://1.bp.blogspot.com/-etz45QGJkYA/X9TaOKmqbYI/AAAAAAAAAVI/hVT_kziDrUI_TCK_8FbnrWZJ1AlIwrBjACNcBGAsYHQ/s320/hi-def11.jpg"
        "url": "https://www.we-play.tv/watching/tv/hidef-1",
-	     "import": false
+	     "referer": "https://www.we-play.tv/",
+	     "playInNatPlayer": "true"
            },
 	   
 	{
              "name": "Warner TV",  
 	     "image": "https://1.bp.blogspot.com/-Q0yPBojAAdM/X9TbedX8EeI/AAAAAAAAAVQ/XxiWkXrwpNQga2QEkkkZo34LfvAkcpPCQCNcBGAsYHQ/s0/Warner%2BTV.png"
        "url": "https://www.we-play.tv/watching/tv/warner-tv",
-	     "import": false
+	     "referer": "https://www.we-play.tv/",
+	     "playInNatPlayer": "true"
            },
 	   
 	{
 		        "name": "HBO Hits",  
 	     "image": "https://1.bp.blogspot.com/-4N53YpDmuY8/X9TdtHWBsjI/AAAAAAAAAVk/PJUK3j3AxM0OfXt80EuCoXKpZVwiVQJ3gCNcBGAsYHQ/s0/hbbohits.jpg"
        "url": "https://www.we-play.tv/watching/tv/hbo-hits",
-	     "import": false
+	     "referer": "https://www.we-play.tv/",
+	     "playInNatPlayer": "true"
            },
 	   	
 		{
              "name": "HBO HD",   
 	     "image": "https://1.bp.blogspot.com/-qGI_-9pceQM/X9TdKDtOOLI/AAAAAAAAAVc/tJTpyf-s1IgU6gh58BQG2Hz9guKghT5WgCNcBGAsYHQ/s320/hbohd.jpg"
        "url": "https://www.we-play.tv/watching/tv/hbo-hd",
-	     "import": false
+	     "referer": "https://www.we-play.tv/",
+	     "playInNatPlayer": "true"
            },
 	   	
 		{
              "name": "FOX TH",   
 	     "image": "https://1.bp.blogspot.com/-8HktpwzrZEc/X9TW-v5TvmI/AAAAAAAAAUo/RPgsiscqnGIRYHn_P3oQDZHst5u7KubNgCNcBGAsYHQ/s320/Untitled-11.jpg",
        "url": "https://www.we-play.tv/watching/tv/fox-thai",
-	     "import": false
+	     "referer": "https://www.we-play.tv/",
+	     "playInNatPlayer": "true"
            },
 	
 	
@@ -60,7 +67,8 @@
              "name": "Paramount Channel",  
 	     "image": "https://1.bp.blogspot.com/-unrLGxulx6o/X9TeM1D1llI/AAAAAAAAAVs/R-qsRla8GPAkSz9CmRGaaGVDjMcJaswqgCNcBGAsYHQ/s320/512x512bb.jpg"
        "url": "https://www.we-play.tv/watching/tv/paramount-channel",
-	     "import": false
+	     "referer": "https://www.we-play.tv/",
+	     "playInNatPlayer": "true"
            },
    
 
