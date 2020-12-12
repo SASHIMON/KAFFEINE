@@ -1,1 +1,33 @@
+{
+	"name": "SASHIMONME",
+	"author": "หมีเอง",
+	"image": "https://1.bp.blogspot.com/-3k-uZDnHBbw/X3tfFHHm-eI/AAAAAAAAAQs/jwkpe0Mp6BAo9hcSJHfyaYOA7mCS44JXwCNcBGAsYHQ/s1516/brown0001.jpg",
+	"url": "https://raw.githubusercontent.com/SASHIMON/KAFFEINE/main",
+	"groups": [
+	
+	      {
+			    "name": "IPTV",
+			"image": "https://1.bp.blogspot.com/-T__1euaYA30/X9TgWwKJbcI/AAAAAAAAAV4/912wmmw0h8EGf5vAy2k1wIKYpdKnMyUdgCNcBGAsYHQ/s320/iptv.png",
+			"url": "https://raw.githubusercontent.com/SASHIMON/KAFFEINE/main/DOOWHAT",
+			"import": false
+		},		  
+          
+         {
+              "name": "MOVIE & SERIES",
+           "image": "https://1.bp.blogspot.com/-76wQRAv4JfI/X9Thyw_dujI/AAAAAAAAAWM/UtZYM5kCgAgiip6efQQEidqVAT9RxdiIgCNcBGAsYHQ/s0/moviecnn.jpg",
+           "url": "http://tiny.cc/002moviesme",
+		       "import": false
+		},	
+    	        {
+			    "name": "CARTOON",
+			"image": "https://1.bp.blogspot.com/-OGdH46hqDFk/X9ThPfenlsI/AAAAAAAAAWA/nJ1TqmehxIkCvmdz6BlTN_PetUVSjWZwwCNcBGAsYHQ/s320/5b5331585130e_thumb900.png",
+			"url": "http://tiny.cc/001cartoonsme",
+			"import": false
+		},		
+
+	
+		
+		
+    ]
+}
 
