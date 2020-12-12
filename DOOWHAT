@@ -2,11 +2,11 @@
 	"name": "IPTV 2020",
 	"author": "IPTV 2020 By SASHIMON",
 	"url": "https://raw.githubusercontent.com/SASHIMON/KAFFEINE/main",
-	"groups": [
+	"stations": [
 	
 	   
 	{
-             "name": "AXN [HD]",  
+             "name": "AXN HD",  
 	     "image": "https://1.bp.blogspot.com/-LmQQL4GUXd4/X9TYv1i-2DI/AAAAAAAAAU0/Iyd3HQuCdkMQYKF85Rz256m2a6CeUAIwgCNcBGAsYHQ/s320/AXNHD655.png"
        "url": "https://www.we-play.tv/watching/tv/axn-hd",
 	     "import": false
@@ -18,6 +18,7 @@
        "url": "https://www.we-play.tv/watching/tv/cinemax",
 	     "import": false
            },
+	
 	{
              "name": "Hi-Def 1",   
 	     "image": "https://1.bp.blogspot.com/-etz45QGJkYA/X9TaOKmqbYI/AAAAAAAAAVI/hVT_kziDrUI_TCK_8FbnrWZJ1AlIwrBjACNcBGAsYHQ/s320/hi-def11.jpg"
@@ -38,18 +39,22 @@
        "url": "https://www.we-play.tv/watching/tv/hbo-hits",
 	     "import": false
            },
-	   	{
+	   	
+		{
              "name": "HBO HD",   
 	     "image": "https://1.bp.blogspot.com/-qGI_-9pceQM/X9TdKDtOOLI/AAAAAAAAAVc/tJTpyf-s1IgU6gh58BQG2Hz9guKghT5WgCNcBGAsYHQ/s320/hbohd.jpg"
        "url": "https://www.we-play.tv/watching/tv/hbo-hd",
 	     "import": false
            },
-	   	{
-             "name": "FOX [TH]",   
+	   	
+		{
+             "name": "FOX TH",   
 	     "image": "https://1.bp.blogspot.com/-8HktpwzrZEc/X9TW-v5TvmI/AAAAAAAAAUo/RPgsiscqnGIRYHn_P3oQDZHst5u7KubNgCNcBGAsYHQ/s320/Untitled-11.jpg",
        "url": "https://www.we-play.tv/watching/tv/fox-thai",
 	     "import": false
            },
+	
+	
 	{
              "name": "Paramount Channel",  
 	     "image": "https://1.bp.blogspot.com/-unrLGxulx6o/X9TeM1D1llI/AAAAAAAAAVs/R-qsRla8GPAkSz9CmRGaaGVDjMcJaswqgCNcBGAsYHQ/s320/512x512bb.jpg"
