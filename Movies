@@ -1,7 +1,7 @@
 {
 	"name": "Movies",
 	"author": "หนังเก่าๆ ดูซ้ำๆ เรื่อยๆ ยังสนุก",
-	"image": "https://1.bp.blogspot.com/-2ax5cWtIhHc/X3xZDcQMI0I/AAAAAAAAAR0/ZFNDHmnJC4YpW6iigfRE1ouUudY6hh2jACNcBGAsYHQ/s200/movie01.png",
+	"image": "https://1.bp.blogspot.com/-tYtyuTx19eM/YA1uzYQRE5I/AAAAAAAAAYE/WQBX1f-3-TAduQmq4JPutCwZAgWC2GzZQCNcBGAsYHQ/s320/moviecnn.jpg",
 	"url": "https://raw.githubusercontent.com/SASHIMON/KAFFEINE/main",
 	
 	"groups": [
@@ -13,13 +13,7 @@
 			"url": "http://tiny.cc/meMoviesBoxSet",
 			"import": false
 		},	
-		
-   		{
-			"name": "คลังภาพยนตร์อื่นๆ",
-			"image": "https://1.bp.blogspot.com/-2ax5cWtIhHc/X3xZDcQMI0I/AAAAAAAAAR0/ZFNDHmnJC4YpW6iigfRE1ouUudY6hh2jACNcBGAsYHQ/s200/movie01.png",
-			"url": "http://tiny.cc/meOtherMovies",
-			"import": false
-		},
+
 		
   
    	]
