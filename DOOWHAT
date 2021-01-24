@@ -1,6 +1,6 @@
 {
-	"name": "IPTV 2020",
-	"author": "IPTV 2020 By SASHIMON",
+	"name": "IPTV 2021",
+	"author": "IPTV 2021 By SASHIMON",
 	"image": "https://1.bp.blogspot.com/-3k-uZDnHBbw/X3tfFHHm-eI/AAAAAAAAAQs/jwkpe0Mp6BAo9hcSJHfyaYOA7mCS44JXwCNcBGAsYHQ/s1516/brown0001.jpg",
 	"url": "https://raw.githubusercontent.com/SASHIMON/KAFFEINE/main",
 	"stations": [
@@ -18,14 +18,6 @@
 		        "name": "Cinemax",  
 	     "image": "https://1.bp.blogspot.com/-OA_YVFo1JFQ/X9TZdqTMtbI/AAAAAAAAAU8/SPf74zYd0P4Zwj3wuoVPAcgcEjDzLoFKQCNcBGAsYHQ/s320/cinemaxlogo.jpg",
        "url": "https://www.we-play.tv/watching/tv/cinemax",
-	     "referer": "https://www.we-play.tv/",
-	     "playInNatPlayer": "true"
-           },
-	
-	{
-             "name": "Hi-Def 1",   
-	     "image": "https://1.bp.blogspot.com/-etz45QGJkYA/X9TaOKmqbYI/AAAAAAAAAVI/hVT_kziDrUI_TCK_8FbnrWZJ1AlIwrBjACNcBGAsYHQ/s320/hi-def11.jpg",
-       "url": "https://www.we-play.tv/watching/tv/hidef-1",
 	     "referer": "https://www.we-play.tv/",
 	     "playInNatPlayer": "true"
            },
