@@ -7,27 +7,27 @@
 	
 	      {
 			    "name": "IPTV",
-			"image": "https://1.bp.blogspot.com/-T__1euaYA30/X9TgWwKJbcI/AAAAAAAAAV4/912wmmw0h8EGf5vAy2k1wIKYpdKnMyUdgCNcBGAsYHQ/s320/iptv.png",
+			"image": "https://1.bp.blogspot.com/-8NbNg2O20Tk/X9yzLIGPCFI/AAAAAAAAAWY/SDl74JuawPAwun9-6oDJPSqXK26dba7tQCNcBGAsYHQ/s320/iptvsmart.jpg",
 			"url": "https://raw.githubusercontent.com/SASHIMON/KAFFEINE/main/DOOWHAT",
 			"import": false
 		},		  
           
          {
-              "name": "MOVIE",
-           "image": "https://1.bp.blogspot.com/-76wQRAv4JfI/X9Thyw_dujI/AAAAAAAAAWM/UtZYM5kCgAgiip6efQQEidqVAT9RxdiIgCNcBGAsYHQ/s0/moviecnn.jpg",
+              "name": "MOVIEs",
+           "image": "https://1.bp.blogspot.com/-tYtyuTx19eM/YA1uzYQRE5I/AAAAAAAAAYE/WQBX1f-3-TAduQmq4JPutCwZAgWC2GzZQCNcBGAsYHQ/s320/moviecnn.jpg",
            "url": "http://tiny.cc/002moviesme",
 		       "import": false
 		},
 		
 	{
-                       "name": "SERIES",
-                       "image": "https://1.bp.blogspot.com/-uu9o2IO2jvI/YA1qU3lKJjI/AAAAAAAAAXY/TmqZwyY_bZwMU0zZzNeJaaha-rZumbJzACNcBGAsYHQ/s320/24h-series.png",
+                       "name": "SERIEs",
+                       "image": "https://1.bp.blogspot.com/-qWQB3fzPFU4/YA1tVOxA6RI/AAAAAAAAAXw/qfWyhOWh-NAY-FspNIxnPLu44sqsMzv9QCNcBGAsYHQ/s320/24h-series.png",
                        "url": "http://tiny.cc/003seriesme",
 		       "import": false
 		},
 		
     	        {
-			    "name": "CARTOON",
+			    "name": "CARTOONs",
 			"image": "https://1.bp.blogspot.com/-Bif8HGJNe18/YA1r2gPklKI/AAAAAAAAAXk/2XtJS3n0noMoRO94W5soKJ8Z0lFPL8tJACNcBGAsYHQ/s320/anime-eyes-vision-fire-pop-culture-logo-designs-cartoon-anime-eyes-vision-fire-pop-culture-logo-designs-186217139%2B%25281%2529.jpg",
 			"url": "http://tiny.cc/001cartoonsme",
 			"import": false
