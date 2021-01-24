@@ -13,14 +13,22 @@
 		},		  
           
          {
-              "name": "MOVIE & SERIES",
+              "name": "MOVIE",
            "image": "https://1.bp.blogspot.com/-76wQRAv4JfI/X9Thyw_dujI/AAAAAAAAAWM/UtZYM5kCgAgiip6efQQEidqVAT9RxdiIgCNcBGAsYHQ/s0/moviecnn.jpg",
            "url": "http://tiny.cc/002moviesme",
 		       "import": false
-		},	
+		},
+		
+	{
+                       "name": "SERIES",
+                       "image": "https://1.bp.blogspot.com/-uu9o2IO2jvI/YA1qU3lKJjI/AAAAAAAAAXY/TmqZwyY_bZwMU0zZzNeJaaha-rZumbJzACNcBGAsYHQ/s320/24h-series.png",
+                       "url": "http://tiny.cc/003seriesme",
+		       "import": false
+		},
+		
     	        {
 			    "name": "CARTOON",
-			"image": "https://1.bp.blogspot.com/-OGdH46hqDFk/X9ThPfenlsI/AAAAAAAAAWA/nJ1TqmehxIkCvmdz6BlTN_PetUVSjWZwwCNcBGAsYHQ/s320/5b5331585130e_thumb900.png",
+			"image": "https://1.bp.blogspot.com/-Bif8HGJNe18/YA1r2gPklKI/AAAAAAAAAXk/2XtJS3n0noMoRO94W5soKJ8Z0lFPL8tJACNcBGAsYHQ/s320/anime-eyes-vision-fire-pop-culture-logo-designs-cartoon-anime-eyes-vision-fire-pop-culture-logo-designs-186217139%2B%25281%2529.jpg",
 			"url": "http://tiny.cc/001cartoonsme",
 			"import": false
 		},		
