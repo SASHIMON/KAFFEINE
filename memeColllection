@@ -1,0 +1,63 @@
+{
+	"name": "CARTOON",
+	"author": "anime",
+	"image": "https://1.bp.blogspot.com/-Bif8HGJNe18/YA1r2gPklKI/AAAAAAAAAXk/2XtJS3n0noMoRO94W5soKJ8Z0lFPL8tJACNcBGAsYHQ/s320/anime-eyes-vision-fire-pop-culture-logo-designs-cartoon-anime-eyes-vision-fire-pop-culture-logo-designs-186217139%2B%25281%2529.jpg",
+	"url": "https://raw.githubusercontent.com/SASHIMON/KAFFEINE/main",
+	"groups": [
+	
+	    {
+			"name": "LINE STORY",
+			"image": "https://shop.line-scdn.net/themeshop/v1/products/a7/69/b4/a769b437-549f-4ba1-920a-eec61d04b4c9/64/WEBSTORE/icon_198x278.png",
+			"url": "http://tiny.cc/001linecartoonsme",
+			"import": false
+		},
+	        
+    {
+			"name": "sankarea",
+			"image": "https://upload.wikimedia.org/wikipedia/en/2/26/Sankarea_manga_vol_1.jpg",
+			"url": "http://tiny.cc/001sankarea",
+			"import": false
+		},		
+
+
+    {
+      			"name": "Ouji Neko",
+      			"image": "https://cy.lnwfile.com/7owogu.jpg",
+      			"url": "http://tiny.cc/002OujiNeko",
+		  	"import": false
+		},		
+
+    {
+      			"name": "Koi 2 Senkyo 2 Chocolate",
+      			"image": "https://3.bp.blogspot.com/-pkfCYeoG1Jw/UkaIy2JADAI/AAAAAAAAAK8/H9j68lbqMCs/s640/ova.jpg",
+      			"url": "http://tiny.cc/meKoi2Senkyo2Chocolate",
+		  	"import": false
+		},		
+
+
+    {
+      			"name": "Diabolik Lovers SS1 SS2",
+      			"image": "https://boss-anime.com/wp-content/uploads/2019/09/55PvSA5DgJQ1C8RWZtupxdd1dxX.jpg",
+      			"url": "http://tiny.cc/meDiabolikLovers",
+		  	"import": false
+		},
+
+
+    {
+      			"name": "GKGR SS1 SS2",
+      			"image": "https://images-na.ssl-images-amazon.com/images/I/61vYR0H5W2L.jpg",
+      			"url": "http://tiny.cc/meGKGR2020",
+		  	"import": false
+		},
+
+
+    {
+      			"name": "Yosuga no Sora",
+      			"image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/2693/26937501_sa.jpg",
+      			"url": "http://tiny.cc/meGKGR2020",
+		  	"import": false
+		},
+
+
+    ]
+}
